@@ -6,7 +6,7 @@ import javax.persistence.Id;
 
 
 @Entity
-public class Student {
+public class Students {
 
 	@Id
 	private int admno;
